@@ -21,7 +21,8 @@ int main() {
     
     if (isPerfect(number)) {
         printf("%d is a perfect number.\n", number);
-    } else {
+    } else 
+    {
         printf("%d is not a perfect number.\n", number);
     }
     
